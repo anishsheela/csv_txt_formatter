@@ -1,0 +1,4 @@
+name = CSV Text Field Fomatter
+description = "Text field formatter which converts csv to list, with configurable separator"
+package = Fields
+core = 7.x
